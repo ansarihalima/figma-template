@@ -49,9 +49,9 @@ text-align: left !important;
     font-weight: bold !important;
 }
 .yellow{
-    border: 1px pink solid;
-    width: 10px;
-    height: 5px;
+    border: 1px pink solid !important;
+    width: 10px !important;
+    height: 5px !important;
 }
 .button{
     width: 170px !important;
@@ -79,8 +79,8 @@ background: #EBC30A !important;
 .about-section{
     width: Fixed (1,425px)px !important;
 height: Fixed (2,227.69px)px !important;
-top: 693.92px !important;
-padding: 90px 142.5px 527.92px 142.5px !important;
+top: 93.92px !important;
+padding: 90px 42.5px 27.92px 142.5px !important;
 gap: 188.92px !important;
 opacity: 0px !important;
 
@@ -100,45 +100,71 @@ left: 541.5px !important;
 gap: 0px;
 opacity: 0px;
 }
-/* .about-title{
-width: 403px !important;
-height: 60px !important;
-top: 7px !important;
-left: 353.75px !important;
+.container-veg{ 
+    margin-left: 60em !important;
+    width:1140px !important;
+height:654px !important;
+gap: 0px;
+opacity: 0px;
+}
+.carrot{
+width: 57px;
+height: 57px;
+left: 541.5px;
+gap: 0px;
+opacity: 0px;
+}
+.veg-section{
+    width: 1110px !important;
+height: 939.85px !important;
+top: 166px !important;
+left: 15px !important;
+padding: 90px 0px 0px 0px !important;
+gap: 0px;
+opacity: 0px;
+}
+.card-img-top{
+    margin-left: 10em !important;
+    margin-right: 10em !important;
+    height: 90px !important;
+    width: 90px !important;
+}
+.row{
+width: Fixed (1,140px)px !important;
+height: Fixed (424.93px)px   !important;
+top: 90px !important;
+left: -15px !important;
+padding: 0px 0px 30px 15px !important;
+gap: 30px !important;
+opacity: 0px !important;
+}
+.card{
+width: 198px !important;
+height: 394.93px !important;
+gap: 0px !important;
+border: 2px 0px 0px 0px !important;
+opacity: 0px !important;
+background: #FFFFFF !important;
+border: 2px solid #666666 !important
+}
+.card-img-top{
+    width: 85px !important;
+height: 100px !important;
+top: 22px !important;
+left: 56.5px !important;
 gap: 0px !important;
 opacity: 0px !important;
-font-family: Poppins !important;
-font-size: 50px !important;
-font-weight: 700 !important;
-line-height: 35px !important;
-text-align: left !important;
-
-} */
-/* .i2{
-    width: 702px !important;
-   height:350px !important;
-    top:2px !important;
-    left:9px !important;
-  gap: 0px !important;
-  margin-left: 1em !important;
-  margin-right:0em !important;
-   opacity: 0px !important;
-
-} */
-/* .lorem{
-    width: 515px !important;
-height: 204px !important;
-top: 581.5px !important;
-left: 20.2px !important;
-gap: 0px !important;
-opacity: 0px !important;
-
-} */
-
-
-/* @media only screen and(min-width) {
-    .img{
-        height: 50px !important;
-        width: 100% !important;
-    }
-} */
+}
+.btn{
+    color: aliceblue !important;
+    text-decoration: none !important;
+    width: 130px !important;
+    height: 44.93px !important;
+    top: 328px !important;
+    left: 34px !important;
+    padding: 8.03px 0.97px 5.9px 1.03px !important;
+    gap: 0px !important;
+    border-radius: 4px 0px 0px 0px !important;
+    background: #252525 !important;
+    opacity: 0px !important;
+}
